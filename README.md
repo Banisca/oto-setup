@@ -32,32 +32,6 @@
 
 ---
 
-## 📸 Ekran Görüntüləri
-
-<!-- Buraya .png və ya .gif şəklində bir neçə screenshot əlavə edə bilərsən -->
-<p align="center">
-  <img src="preview.png" width="600" alt="oto-setup preview" />
-</p>
-
----
-
-## 🧩 İstifadə Edilən Texnologiyalar
-
-- 💻 Python (PyQt5)
-- 📁 NSIS və ya AutoIt ilə silent setup dəstəyi
-- 🧠 Ağıllı qovluq yoxlaması və bildiriş sistemi
-- 🖼️ particles.js (ulduzlu fon effekti üçün)
-
----
-
-## ⚙️ İstifadə Qaydası
-
-```bash
-1. Layihəni yüklə və ya klonla
-2. setup.py və ya exe faylını işə sal
-3. Lazım olan proqramları seç
-4. “Hamısını Yüklə” düyməsinə kliklə
-```
 ## 📌 Quraşdırıla Bilən Proqramlar
 
 <p align="center">
@@ -78,3 +52,32 @@
   <img src="https://img.shields.io/badge/-Mozilla%20Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   <img src="https://img.shields.io/badge/-Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" />
 </p>
+
+
+## 📸 Ekran Görüntüləri
+
+<!-- Buraya .png və ya .gif şəklində bir neçə screenshot əlavə edə bilərsən -->
+<p align="center">
+  <img src="preview.png" width="600" alt="oto-setup preview" />
+</p>
+
+---
+
+## 🧩 İstifadə Edilən Texnologiyalar
+
+- 💻 Python (PyQt5)
+- 📁 NSIS və ya AutoIt ilə silent setup dəstəyi
+- 🧠 Ağıllı qovluq yoxlaması və bildiriş sistemi
+- 🖼️ particles.js (ulduzlu fon effekti üçün)
+- 🧁 capolengui.js (Optimizasiya ve XML dən infoları çəkmək üçün)
+
+---
+
+## ⚙️ İstifadə Qaydası
+
+```bash
+1. Layihəni yüklə və ya klonla
+2. setup.py və ya exe faylını işə sal
+3. Lazım olan proqramları seç
+4. “Hamısını Yüklə” düyməsinə kliklə
+```
