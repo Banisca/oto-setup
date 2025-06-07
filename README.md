@@ -58,7 +58,7 @@
 
 <!-- Buraya .png və ya .gif şəklində bir neçə screenshot əlavə edə bilərsən -->
 <p align="center">
-  <img src="preview.png" width="600" alt="oto-setup preview" />
+  <img src="image.png" width="600" alt="oto-setup preview" />
 </p>
 
 ---
