@@ -27,7 +27,7 @@
 - ✅ Quraşdırma log faylı  
 - ✅ Minimalist və şık PyQt5 interfeysi  
 - ✅ Office versiyası seçimi (2010 / 2016 / 2019)  
-- ✅ "Hepsini Yükle" düyməsi ilə toplu quraşdırma  
+- ✅ "Hamısını Yüklə" düyməsi ilə toplu quraşdırma  
 - ✅ USB-dən işləyən portativ sistem
 
 ---
@@ -56,4 +56,25 @@
 1. Layihəni yüklə və ya klonla
 2. setup.py və ya exe faylını işə sal
 3. Lazım olan proqramları seç
-4. “Hepsini Yükle” düyməsinə kliklə
+4. “Hamısını Yüklə” düyməsinə kliklə
+```
+## 📌 Quraşdırıla Bilən Proqramlar
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-WinRAR-4B0079?style=for-the-badge&logo=winrar&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VLC%20Player-FE6C02?style=for-the-badge&logo=vlc-media-player&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Opera-EA1D5D?style=for-the-badge&logo=opera&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
+  <img src="https://img.shields.io/badge/-KMS%20Tools-000000?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
+  <img src="https://img.shields.io/badge/-7--Zip-000000?style=for-the-badge&logo=7zip&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Visual%20C++-00599C?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TeamViewer-0E4C8C?style=for-the-badge&logo=teamviewer&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AnyDesk-E52C1B?style=for-the-badge&logo=anydesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Mozilla%20Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" />
+</p>
