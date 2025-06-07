@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Format Sonrası Programların Avtomatik Yüklənməsi</h1>
-<p align= "center"> YAXINDA PAYLAŞACAM!> /p>
+<p align= "center"> <br>YAXINDA PAYLAŞACAM! </br>
 <p align="center">
   Format sonrası lazım olan proqramların <b>1 kliklə avtomatik qurulması</b> üçün hazırlanmış alət.<br>
   <b>Əkbər Mahmudov</b> tərəfindən hazırlanmışdır.
